@@ -1,7 +1,7 @@
-# proyectosis222
-Proyecto sis 222 en Django
+# Neurolap
+Proyecto hecho usando Django y PostgreSQL
 
-Integrantes:
+Coautores:
 
 * Luis Carvajal
 
