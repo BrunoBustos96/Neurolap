@@ -1,17 +1,17 @@
-# Neurolap
-Creadora intelectual: Dra. Ninoska Ocampo
+# NeuroLap
+Creadora intelectual: Dra. Ninoska Ocampo-Barba
 
-Realizado con el apoyo de Andrea Arana, Karol Argote
+Realizado con el apoyo de Karol Argote, Andrea Arana
 
 Versión del proyecto hecho usando Django y PostgreSQL
 
 Desarrolladores de esta versión:
 
-* Luis Carvajal
+* Bruno Bustos
 
 * Alberto Flores
 
-* Bruno Bustos
+* Luis Carvajal
 
 * Miguel Barrionuevo
 
