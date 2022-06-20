@@ -1,7 +1,11 @@
 # Neurolap
-Proyecto hecho usando Django y PostgreSQL
+Creadora intelectual: Dra. Ninoska Ocampo
 
-Coautores:
+Realizado con el apoyo de Andrea Arana, Karol Argote
+
+Versión del proyecto hecho usando Django y PostgreSQL
+
+Desarrolladores de esta versión:
 
 * Luis Carvajal
 
